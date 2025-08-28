@@ -103,7 +103,7 @@ const DashboardOverview = () => {
       <div className="flex flex-col sm:flex-row sm:items-center sm:justify-between">
         <div>
           <h1 className="text-3xl font-bold text-foreground">
-            Good morning, Deepak Dash! 👋
+            Good Afternoon, Deepak Dash! 👋
           </h1>
           <p className="text-muted-foreground mt-1">
             Here's what's happening with your team today.
